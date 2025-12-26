@@ -15,7 +15,7 @@
 
 Hello! I'm a Computer Engineering student from Nepal 🇳🇵, and I'm on an exciting journey of learning and exploration in the world of programming. I'm particularly fascinated by how computers work at the fundamental level—not just *what* they do, but *how* they achieve it.
 
-My curiosity drives me to dive deep into systems programming, graphics development, and low-level computer architecture. While I'm still learning and growing, I'm passionate about understanding the intricate details that make technology work.
+My curiosity drives me to dive deep into systems programming, graphics development, and low-level computer architecture. From building cross-platform window systems in pure C to creating SQL ORMs for modern web development, I love exploring the full spectrum of software development. While I'm still learning and growing, I'm passionate about understanding the intricate details that make technology work—and sharing those creations with the community!
 
 ```c
 // My daily routine as a student developer
@@ -41,9 +41,11 @@ Currently exploring the fascinating world of computer graphics:
 - **Interests**: Real-time rendering, shader programming, and graphics pipelines
 - **Approach**: Building from first principles to understand how graphics engines work
 
-### 🌐 Web Development
+### 🌐 Web Development & TypeScript
 Expanding my knowledge into modern web technologies:
-- Working with contemporary web development frameworks and tools
+- Building tools like **Mango ORM** - a TypeScript SQL ORM with 500+ npm downloads
+- Working with TypeScript, Node.js, and modern JavaScript ecosystem
+- Creating developer tools that solve real-world problems
 - Building full-stack applications to complement my systems programming knowledge
 - Bridging the gap between low-level efficiency and high-level usability
 
@@ -53,6 +55,44 @@ I believe in learning by doing and understanding by building. Every project is a
 ---
 
 ## 🚀 Projects I'm Working On
+
+<div align="center">
+
+### ⭐ Featured Projects ⭐
+
+</div>
+
+### 🎯 [Mango ORM](https://www.npmjs.com/package/@devsiddharthkarn/mango-orm) - TypeScript SQL ORM
+
+<div align="center">
+
+[![npm version](https://img.shields.io/npm/v/@devsiddharthkarn/mango-orm?style=flat-square)](https://www.npmjs.com/package/@devsiddharthkarn/mango-orm)
+[![npm downloads](https://img.shields.io/npm/dt/@devsiddharthkarn/mango-orm?style=flat-square&color=success)](https://www.npmjs.com/package/@devsiddharthkarn/mango-orm)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/@devsiddharthkarn/mango-orm?style=flat-square)](https://bundlephobia.com/package/@devsiddharthkarn/mango-orm)
+
+</div>
+
+I'm thrilled to share that **Mango ORM has crossed 500+ downloads** on npm! 🎉 This is a SQL ORM built with TypeScript that I created to make database interactions simpler and development prototypes faster.
+
+**What Makes Mango ORM Special:**
+- ⚡ **Fast Development**: Rapid prototyping with intuitive API design
+- 🔷 **TypeScript First**: Full type safety and excellent IDE support
+- 🗄️ **SQL Power**: Direct SQL query capabilities with ORM convenience
+- 🛠️ **Developer Friendly**: Clean syntax for common database operations
+- 📦 **Lightweight**: Minimal dependencies, maximum performance
+
+**Key Features:**
+```typescript
+// Simple, intuitive API for rapid development
+import { MangoORM } from '@devsiddharthkarn/mango-orm';
+
+// Type-safe queries with great DX
+const users = await db.users.find({ active: true });
+```
+
+Seeing developers use something I built has been incredibly rewarding and motivates me to keep improving it!
+
+---
 
 ### 🖥️ [CGI_C](https://github.com/devSiddharthKarn/CGI_C) - Cross-Platform Window Management System
 
@@ -73,9 +113,19 @@ One of my learning projects that I'm quite proud of! CGI_C is a cross-platform w
 
 This project has taught me immensely about how graphical user interfaces work at the system level, and I'm continuously improving it as I learn more!
 
-### 📚 More Projects
+---
 
-I'm constantly working on new projects to expand my knowledge. Feel free to explore my [GitHub repositories](https://github.com/devSiddharthKarn?tab=repositories) to see what I'm currently building and learning!
+### 📚 Explore More
+
+<div align="center">
+
+**I'm constantly building and learning!**
+
+From low-level systems programming to modern web tools, each project teaches me something new.
+
+[🔍 View All My Repositories →](https://github.com/devSiddharthKarn?tab=repositories)
+
+</div>
 
 ---
 
@@ -87,6 +137,7 @@ I'm constantly working on new projects to expand my knowledge. Feel free to expl
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -102,6 +153,8 @@ I'm constantly working on new projects to expand my knowledge. Feel free to expl
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
 
@@ -157,13 +210,22 @@ Every project is a learning opportunity, and every challenge is a chance to grow
 
 ## 🎮 Beyond Programming
 
+<div align="center">
+
+**Life is more than just code!** 🌟
+
+</div>
+
 When I'm not coding or studying:
 - 🎮 **Gaming**: I enjoy playing video games (and often wonder about the technology behind them!)
 - 👥 **Social Connections**: I value spending time with friends and meeting new people
-- 🤝 **Community**: I'm always eager to collaborate, share knowledge, and learn from others
-- 🌍 **Culture**: Enjoying life in Nepal and staying connected with the global tech community
+- 🤝 **Community**: I'm always eager to collaborate, share knowledge, and learn from others in the developer community
+- 🌍 **Culture**: Enjoying life in Nepal 🇳🇵 and staying connected with the global tech community
+- 📚 **Open Source**: Contributing to projects and helping fellow developers
 
 I believe in maintaining a healthy balance between learning, working, and enjoying life!
+
+> *"The best developers are well-rounded individuals who bring diverse perspectives to their work."*
 
 ---
 
@@ -202,11 +264,21 @@ I'm always open to connecting with fellow developers, learners, and technology e
 
 *"The best way to learn is to build, and the best way to build is to understand deeply."*
 
+---
+
 ### 🌟 Thank You for Visiting!
 
 I appreciate you taking the time to check out my profile. Whether you're here to explore my projects, looking for collaboration opportunities, or just browsing through, I hope you find something interesting!
 
-Keep learning, keep building, and keep growing! 🚀
+**Fun Fact:** I've built projects ranging from low-level C window managers to TypeScript ORMs with 500+ downloads. I love exploring the full spectrum of software development! 🚀
+
+<div align="center">
+
+**Keep learning, keep building, and keep growing!** ✨
+
+[![GitHub](https://img.shields.io/badge/Follow-@devSiddharthKarn-181717?style=for-the-badge&logo=github)](https://github.com/devSiddharthKarn)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 

@@ -2,7 +2,7 @@
 
 # Hi there, I'm Siddharth Karn! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Systems+Programmer;Graphics+Programming+Enthusiast;Low-Level+Code+Explorer;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Learning+Systems+Programming;Graphics+Programming+Explorer;From+Nepal+🇳🇵)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/devSiddharthKarn?style=for-the-badge&logo=github)](https://github.com/devSiddharthKarn)
 [![Profile Views](https://komarev.com/ghpvc/?username=devSiddharthKarn&color=blueviolet&style=for-the-badge)](https://github.com/devSiddharthKarn)
@@ -11,79 +11,75 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** from **Nepal** 🇳🇵 with a deep passion for understanding how things work at the lowest level. I don't just want to know *that* it works—I want to know *how* it works, from the ground up. This curiosity drives me to explore systems programming, graphics programming, and the intricate details of computer architecture.
+Hello! I'm a Computer Engineering student from Nepal 🇳🇵, and I'm on an exciting journey of learning and exploration in the world of programming. I'm particularly fascinated by how computers work at the fundamental level—not just *what* they do, but *how* they achieve it.
+
+My curiosity drives me to dive deep into systems programming, graphics development, and low-level computer architecture. While I'm still learning and growing, I'm passionate about understanding the intricate details that make technology work.
 
 ```c
-while(alive) {
-    eat();
-    sleep();
+// My daily routine as a student developer
+while(learning) {
+    study();
     code();
-    repeat();
+    explore();
+    improve();
 }
 ```
 
-## 💻 Technical Interests
+## 💡 What I'm Learning & Exploring
 
-### Core Systems Programming
-- **Languages:** C, C++ (My primary languages for understanding the fundamentals)
-- **Philosophy:** Deep dive into how computers work under the hood
-- **Focus:** Low-level programming, memory management, and system architecture
+### 🔧 Systems Programming
+I'm deeply interested in understanding the foundations of computing through:
+- **C & C++**: My primary tools for learning low-level programming concepts
+- **Focus Areas**: Memory management, system architecture, and performance optimization
+- **Goal**: To understand how software communicates with hardware at the most fundamental level
 
-### Graphics Programming
-- **APIs:** Vulkan, OpenGL
-- **Interest:** Real-time rendering, shader programming, and graphics pipeline optimization
-- **Projects:** Building graphics engines from scratch to understand rendering fundamentals
+### 🎨 Graphics Programming
+Currently exploring the fascinating world of computer graphics:
+- **Learning**: Vulkan and OpenGL APIs
+- **Interests**: Real-time rendering, shader programming, and graphics pipelines
+- **Approach**: Building from first principles to understand how graphics engines work
 
-### Web Development
-- Currently expanding my skill set with modern web technologies
-- Full-stack development capabilities
-- Bridging the gap between low-level and high-level programming
+### 🌐 Web Development
+Expanding my knowledge into modern web technologies:
+- Working with contemporary web development frameworks and tools
+- Building full-stack applications to complement my systems programming knowledge
+- Bridging the gap between low-level efficiency and high-level usability
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-### 🖥️ [CGI_C](https://github.com/devSiddharthKarn/CGI_C)
-  
-<table>
-<tr>
-<td width="50%">
-
-**A cross-platform window management system built from scratch in C**
-
-🎯 **Key Features:**
-- ✅ Windows (Win32 API) Support
-- ✅ Linux (X11/Wayland) Support  
-- ✅ Pure C Implementation
-- ✅ Custom Event Handling
-- ✅ Cross-platform Abstraction Layer
-
-</td>
-<td width="50%">
-
-**Tech Stack:**
-```c
-// Core Technologies
-- Pure C Programming
-- Win32 API (Windows)
-- X11/Wayland (Linux)
-- System Calls
-- Low-level Memory Management
-```
-
-</td>
-</tr>
-</table>
-
-*🌟 Check out more projects on my [GitHub profile](https://github.com/devSiddharthKarn)!*
-
-</div>
+### 🎯 Personal Philosophy
+I believe in learning by doing and understanding by building. Every project is an opportunity to dig deeper and ask "why?" and "how?" rather than just "what?"
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Projects I'm Working On
+
+### 🖥️ [CGI_C](https://github.com/devSiddharthKarn/CGI_C) - Cross-Platform Window Management System
+
+One of my learning projects that I'm quite proud of! CGI_C is a cross-platform window management system built entirely in C. Through this project, I'm learning how operating systems handle windows and events at the API level.
+
+**What I'm Learning:**
+- 🪟 Windows API programming using Win32
+- 🐧 Linux windowing systems (X11/Wayland)
+- 🔄 Creating platform-independent abstraction layers
+- ⚡ Event handling and window lifecycle management
+- 🧠 Low-level memory management and system calls
+
+**Technical Details:**
+- Pure C implementation for maximum learning
+- Support for both Windows and Linux platforms
+- Custom event handling system
+- Cross-platform abstraction for easier portability
+
+This project has taught me immensely about how graphical user interfaces work at the system level, and I'm continuously improving it as I learn more!
+
+### 📚 More Projects
+
+I'm constantly working on new projects to expand my knowledge. Feel free to explore my [GitHub repositories](https://github.com/devSiddharthKarn?tab=repositories) to see what I'm currently building and learning!
+
+---
+
+## 🛠️ Technologies I Work With
 
 <div align="center">
 
@@ -102,7 +98,7 @@ while(alive) {
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🔧 Tools & Technologies
+### 🔧 Tools & Development Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -113,83 +109,78 @@ while(alive) {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/devSiddharthKarn">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devSiddharthKarn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devSiddharthKarn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSiddharthKarn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSiddharthKarn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devSiddharthKarn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devSiddharthKarn&theme=tokyonight&hide_border=true)](https://github.com/devSiddharthKarn)
-  
-</div>
+---
+
+## 🌱 My Current Learning Path
+
+I'm actively expanding my knowledge in several areas:
+
+- 📐 **Advanced Graphics Programming**: Diving deeper into Vulkan, exploring ray tracing concepts, and shader optimization techniques
+- ⚙️ **Modern C++**: Learning C++17, C++20, and C++23 features, templates, and best practices
+- 🎮 **Graphics Algorithms**: Studying rendering algorithms, optimization techniques, and performance considerations
+- 🌐 **Web Technologies**: Exploring modern frameworks, design patterns, and industry best practices
+- 📚 **Computer Architecture**: Understanding how hardware and software work together at the lowest levels
+
+### 📖 Learning Resources I Use
+- Open-source projects and their codebases
+- Technical documentation and API references
+- Online courses and programming communities
+- Hands-on projects and experimentation
+
+---
+
+## 💭 My Learning Philosophy
+
+I believe that true understanding comes from curiosity and persistence. Rather than just accepting that something works, I prefer to understand *why* and *how* it works. This approach:
+
+- Helps me write more thoughtful and efficient code
+- Enables better problem-solving and debugging
+- Builds a stronger foundation for learning new technologies
+- Makes me appreciate the ingenuity behind the tools we use daily
+
+Every project is a learning opportunity, and every challenge is a chance to grow!
+
+---
+
+## 🎮 Beyond Programming
+
+When I'm not coding or studying:
+- 🎮 **Gaming**: I enjoy playing video games (and often wonder about the technology behind them!)
+- 👥 **Social Connections**: I value spending time with friends and meeting new people
+- 🤝 **Community**: I'm always eager to collaborate, share knowledge, and learn from others
+- 🌍 **Culture**: Enjoying life in Nepal and staying connected with the global tech community
+
+I believe in maintaining a healthy balance between learning, working, and enjoying life!
+
+---
+
+## 🤝 Let's Connect!
 
 <div align="center">
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devSiddharthKarn&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Learning))
-    Graphics
-      Advanced Vulkan
-      Ray Tracing
-      Shader Optimization
-    C++
-      C++17/20/23
-      Templates
-      Modern Features
-    Algorithms
-      Graphics Algorithms
-      Performance Optimization
-    Web
-      Frameworks
-<div align="center">
-
-I'm always open to interesting conversations about technology, programming, or just life in general. Feel free to reach out!
+I'm always open to connecting with fellow developers, learners, and technology enthusiasts! Whether you want to discuss programming concepts, collaborate on projects, or just have a friendly chat about technology and life, I'd be happy to hear from you.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devSiddharthKarn)
 [![Location](https://img.shields.io/badge/Nepal-🇳🇵-DC143C?style=for-the-badge)](https://www.google.com/maps/place/Nepal)
 
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-**"Understanding the 'how' is just as important as knowing the 'what'"** 
-
-*- My Programming Philosophy*
-
-<br/>
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/devSiddharthKarn/devSiddharthKarn/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=devSiddharthKarn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+**Feel free to:**
+- 💬 Start a discussion on any of my repositories
+- ⭐ Star repositories you find interesting
+- 🐛 Report issues or suggest improvements
+- 🤝 Collaborate on open-source projects
 
 </div>
 
@@ -197,26 +188,26 @@ I'm always open to interesting conversations about technology, programming, or j
 
 <div align="center">
 
-**Thanks for visiting! Happy coding! 🚀**
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=devSiddharthKarn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 A Quote I Live By
+
+*"The best way to learn is to build, and the best way to build is to understand deeply."*
+
+### 🌟 Thank You for Visiting!
+
+I appreciate you taking the time to check out my profile. Whether you're here to explore my projects, looking for collaboration opportunities, or just browsing through, I hope you find something interesting!
+
+Keep learning, keep building, and keep growing! 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-**Gaming:** Love playing video games (and understanding how they work!)
-- **Social Life:** Enjoy being socially engaged and connecting with people
-- **Community:** Always excited to collaborate and learn from others
 
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations about technology, programming, or just life in general. Feel free to reach out!
-
-- **GitHub:** [@devSiddharthKarn](https://github.com/devSiddharthKarn)
-- **Location:** Nepal 🇳🇵
-
----
-
-<div align="center">
-  
-  **"Understanding the 'how' is just as important as knowing the 'what'"**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=devSiddharthKarn&color=blueviolet&style=flat-square)
-  
 </div>

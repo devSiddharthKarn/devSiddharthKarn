@@ -62,13 +62,13 @@ I believe in learning by doing and understanding by building. Every project is a
 
 </div>
 
-### 🎯 [Mango ORM](https://www.npmjs.com/package/@devsiddharthkarn/mango-orm) - TypeScript SQL ORM
+### 🎯 [Mango ORM](https://www.npmjs.com/package/mango-orm) - TypeScript SQL ORM
 
 <div align="center">
 
-[![npm version](https://img.shields.io/npm/v/@devsiddharthkarn/mango-orm?style=flat-square)](https://www.npmjs.com/package/@devsiddharthkarn/mango-orm)
-[![npm downloads](https://img.shields.io/npm/dt/@devsiddharthkarn/mango-orm?style=flat-square&color=success)](https://www.npmjs.com/package/@devsiddharthkarn/mango-orm)
-[![npm bundle size](https://img.shields.io/bundlephobia/minzip/@devsiddharthkarn/mango-orm?style=flat-square)](https://bundlephobia.com/package/@devsiddharthkarn/mango-orm)
+[![npm version](https://img.shields.io/npm/v/mango-orm?style=flat-square)](https://www.npmjs.com/package/mango-orm)
+[![npm downloads](https://img.shields.io/npm/dt/mango-orm?style=flat-square&color=success)](https://www.npmjs.com/package/mango-orm)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/mango-orm?style=flat-square)](https://bundlephobia.com/package/mango-orm)
 
 </div>
 
@@ -84,7 +84,7 @@ I'm thrilled to share that **Mango ORM has crossed 500+ downloads** on npm! 🎉
 **Key Features:**
 ```typescript
 // Simple, intuitive API for rapid development
-import { MangoORM } from '@devsiddharthkarn/mango-orm';
+import { MangoORM } from 'mango-orm';
 
 // Type-safe queries with great DX
 const users = await db.users.find({ active: true });
